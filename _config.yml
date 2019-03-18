@@ -7,8 +7,8 @@ headline: Artist, Teacher and More.
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+url: "http://meganrine.com" # the base hostname & protocol for your site
+copyright: 2019. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -17,7 +17,7 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: megsadiq@gmail.com
+email: megsadiq1@gmail.com
 phone: +1-740-274-8788
 
 # Tracking
