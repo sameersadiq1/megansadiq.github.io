@@ -2,7 +2,7 @@
 .container-portfolio {
   display: block;
   padding-top: 4rem;
-  background-color: $theme-color-main;
+  background-color: $body-background;
   text-align: center;
   position: relative;
 
@@ -16,7 +16,7 @@
   &-image {
     width: 220px;
     height: 220px;
-    
+
     transition: all .3s;
 
     &:hover {
