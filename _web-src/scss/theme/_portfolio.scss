@@ -1,6 +1,5 @@
-// Block: container-top
-
-.container-top {
+// Block: container-instagram
+.container-portfolio {
   display: block;
   padding-top: 4rem;
   background-color: $theme-color-main;
@@ -13,10 +12,11 @@
 
   // Element: container-top-image
 
+
   &-image {
     width: 220px;
     height: 220px;
-    object-fit: cover;
+    
     transition: all .3s;
 
     &:hover {
