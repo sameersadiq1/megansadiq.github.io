@@ -16,7 +16,7 @@
   &-image {
     width: 220px;
     height: 220px;
-
+    object-fit: cover;
     transition: all .3s;
 
     &:hover {
